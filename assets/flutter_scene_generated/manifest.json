@@ -1,0 +1,244 @@
+{
+  "schema": 3,
+  "package": "scene_game",
+  "entries": [
+    {
+      "family": "scene",
+      "id": "assets/models/hero/Explorer_Male",
+      "file": "scene.Explorer_Male.0482c7bc.fsceneb",
+      "stamp": "29457fa7a57c7640",
+      "source": "assets/models/hero/Explorer_Male.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/hero/anims_core",
+      "file": "scene.anims_core.4269923a.fsceneb",
+      "stamp": "2dc0318bc0dbc15a",
+      "source": "assets/models/hero/anims_core.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/hero/anims_slide",
+      "file": "scene.anims_slide.a4f9bdfd.fsceneb",
+      "stamp": "514e613c89eb9bd3",
+      "source": "assets/models/hero/anims_slide.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/jungle/bridge_stone",
+      "file": "scene.bridge_stone.aad8ef4b.fsceneb",
+      "stamp": "02665aea8dfe0663",
+      "source": "assets/models/jungle/bridge_stone.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/jungle/bridge_stoneNarrow",
+      "file": "scene.bridge_stoneNarrow.7b8a8041.fsceneb",
+      "stamp": "9fe77e044fa1f8df",
+      "source": "assets/models/jungle/bridge_stoneNarrow.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/jungle/cliff_block_stone",
+      "file": "scene.cliff_block_stone.354a2acb.fsceneb",
+      "stamp": "62d1fc0339b935b4",
+      "source": "assets/models/jungle/cliff_block_stone.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/jungle/cliff_large_stone",
+      "file": "scene.cliff_large_stone.58332749.fsceneb",
+      "stamp": "81070fd8bed8352e",
+      "source": "assets/models/jungle/cliff_large_stone.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/jungle/cliff_top_stone",
+      "file": "scene.cliff_top_stone.97b2904d.fsceneb",
+      "stamp": "ccb8cca266b5aadc",
+      "source": "assets/models/jungle/cliff_top_stone.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/jungle/cliff_waterfall_stone",
+      "file": "scene.cliff_waterfall_stone.eae29657.fsceneb",
+      "stamp": "6742d7bc2e91af09",
+      "source": "assets/models/jungle/cliff_waterfall_stone.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/jungle/grass_large",
+      "file": "scene.grass_large.3dd4ec76.fsceneb",
+      "stamp": "f675eb014aabcccf",
+      "source": "assets/models/jungle/grass_large.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/jungle/hanging_moss",
+      "file": "scene.hanging_moss.b4ac7095.fsceneb",
+      "stamp": "49e0f9a333b2eb3e",
+      "source": "assets/models/jungle/hanging_moss.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/jungle/log",
+      "file": "scene.log.5a9eaa12.fsceneb",
+      "stamp": "6f49173a54065ab8",
+      "source": "assets/models/jungle/log.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/jungle/log_large",
+      "file": "scene.log_large.bde26b9d.fsceneb",
+      "stamp": "c202944eaa18b243",
+      "source": "assets/models/jungle/log_large.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/jungle/mushroom_redGroup",
+      "file": "scene.mushroom_redGroup.f19acdcd.fsceneb",
+      "stamp": "743865d42aa8c4bf",
+      "source": "assets/models/jungle/mushroom_redGroup.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/jungle/path_stone",
+      "file": "scene.path_stone.7ac67780.fsceneb",
+      "stamp": "040236233ac75112",
+      "source": "assets/models/jungle/path_stone.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/jungle/plant_bushDetailed",
+      "file": "scene.plant_bushDetailed.db183fd4.fsceneb",
+      "stamp": "6c749614d6841fa4",
+      "source": "assets/models/jungle/plant_bushDetailed.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/jungle/plant_bushLarge",
+      "file": "scene.plant_bushLarge.261ff136.fsceneb",
+      "stamp": "ad601be6455fd2d6",
+      "source": "assets/models/jungle/plant_bushLarge.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/jungle/plant_flatTall",
+      "file": "scene.plant_flatTall.6ad5c731.fsceneb",
+      "stamp": "c655b213bc238819",
+      "source": "assets/models/jungle/plant_flatTall.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/jungle/rock_largeA",
+      "file": "scene.rock_largeA.0ab97b16.fsceneb",
+      "stamp": "3ae043529b94d143",
+      "source": "assets/models/jungle/rock_largeA.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/jungle/rock_largeC",
+      "file": "scene.rock_largeC.0ab979bc.fsceneb",
+      "stamp": "08b3a0fca935bba5",
+      "source": "assets/models/jungle/rock_largeC.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/jungle/rock_tallB",
+      "file": "scene.rock_tallB.e681ee7c.fsceneb",
+      "stamp": "40353344855d4252",
+      "source": "assets/models/jungle/rock_tallB.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/jungle/statue_block",
+      "file": "scene.statue_block.5bf903db.fsceneb",
+      "stamp": "1d88a49d10e54c1d",
+      "source": "assets/models/jungle/statue_block.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/jungle/statue_column",
+      "file": "scene.statue_column.8eefd5af.fsceneb",
+      "stamp": "e258c6d7238ded1f",
+      "source": "assets/models/jungle/statue_column.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/jungle/statue_columnDamaged",
+      "file": "scene.statue_columnDamaged.4f54e180.fsceneb",
+      "stamp": "21d4697d308f7c53",
+      "source": "assets/models/jungle/statue_columnDamaged.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/jungle/statue_head",
+      "file": "scene.statue_head.a5176ac7.fsceneb",
+      "stamp": "e138037295aab72f",
+      "source": "assets/models/jungle/statue_head.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/jungle/statue_obelisk",
+      "file": "scene.statue_obelisk.a7056986.fsceneb",
+      "stamp": "35439ba5092f9806",
+      "source": "assets/models/jungle/statue_obelisk.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/jungle/statue_ring",
+      "file": "scene.statue_ring.e050db83.fsceneb",
+      "stamp": "cc2ce5e06cacc515",
+      "source": "assets/models/jungle/statue_ring.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/jungle/stone_largeB",
+      "file": "scene.stone_largeB.279a6e98.fsceneb",
+      "stamp": "69e198b6866fe48a",
+      "source": "assets/models/jungle/stone_largeB.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/jungle/stone_tallC",
+      "file": "scene.stone_tallC.dd60a427.fsceneb",
+      "stamp": "645f8d239940d1e5",
+      "source": "assets/models/jungle/stone_tallC.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/jungle/tree_detailed_dark",
+      "file": "scene.tree_detailed_dark.ec692018.fsceneb",
+      "stamp": "7e685062de181025",
+      "source": "assets/models/jungle/tree_detailed_dark.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/jungle/tree_palmBend",
+      "file": "scene.tree_palmBend.46125961.fsceneb",
+      "stamp": "0811a45b30f5753e",
+      "source": "assets/models/jungle/tree_palmBend.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/jungle/tree_palmDetailedTall",
+      "file": "scene.tree_palmDetailedTall.28be3ca0.fsceneb",
+      "stamp": "7b01ceb8f900eada",
+      "source": "assets/models/jungle/tree_palmDetailedTall.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/jungle/tree_palmTall",
+      "file": "scene.tree_palmTall.d3e0c488.fsceneb",
+      "stamp": "7c6eeef9371850ef",
+      "source": "assets/models/jungle/tree_palmTall.glb"
+    },
+    {
+      "family": "scene",
+      "id": "assets/models/jungle/tree_tall_dark",
+      "file": "scene.tree_tall_dark.01cc401b.fsceneb",
+      "stamp": "1c919e177a9b6be0",
+      "source": "assets/models/jungle/tree_tall_dark.glb"
+    }
+  ]
+}
